@@ -1,0 +1,13 @@
+.pomodoro {
+  width: 600px;
+  height: 400px;
+  background: #270d3b;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 20px;
+}
+.pomodoro__header {
+  width: 100%;
+  height: 50px;
+  border-bottom: 3px solid white;
+}
